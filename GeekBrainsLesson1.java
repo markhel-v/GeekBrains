@@ -60,7 +60,7 @@ public class GeekBrainsLesson1 {
         {
             short hello = 0;
             int _m = 1;
-            long y = 2L;
+            long _y = 2L;
             float n = 3.45f;
             double a = 6.789d;
             char m = 65;
